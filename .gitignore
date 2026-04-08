@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.zip
+test-*.html
+test-result-*.png
+run-tests.js
+generate-*.js
+fix-*.js
+promo-small.html
+promo-small.png
+screenshot-*.png
+compat-*.png
